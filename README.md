@@ -455,7 +455,7 @@ f.close()
 
 56. Head to https://en.wikipedia.org/wiki/All-time_Olympic_Games_medal_table in a web browser.
 
-57. There are a nubmer of tables on this page, but we're going to focus on the `Unranked medal table (sortable)` section of the page.
+57. There are a number of tables on this page, but we're going to focus on the `Unranked medal table (sortable)` section of the page.
 
 <p align="center"><a href="https://github.com/kwaldenphd/web-scraping-python/blob/main/images/fig1.jpg?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/web-scraping-python/blob/main/images/fig1.jpg?raw=true" /></a></p>
 
