@@ -5,7 +5,7 @@ This tutorial is licensed under a <a href="http://creativecommons.org/licenses/b
 
 ## Lab Overview
 
-This lab provides an introduction and overview to parsing HTML in Python using `beautifulsoup` and `pandas`.
+This lab tutorial provides an introduction and overview to parsing HTML in Python using `beautifulsoup` and `pandas`. This lab tutorial is intended to be a roadmap to help in setting up necessary components of the final project (specifically, to aid in the well-documented, working Python program written in Jupyter Notebooks, and written reflection (minimum 300 words) that documents how you approached the final project/what you wanted to accomplish via the final project, resources consulted, how you handled challenges you encountered, key takeaways, etc.) 
 
 ## Acknowledgements
 
@@ -1675,29 +1675,29 @@ Q16: What challenges or roadblocks did you face working on Q15? What parts of th
 
 # Final Project Next Steps
 
-189. Our work in this lab is designed to lay the foundation and serve as a springboard for final project work.
+189. Our work in this lab tutorial was designed to lay the foundation and serve as a springboard for final project work.
 
 190. Specifically, Q4, Q10, and Q13 ask you to develop an outline for web scraping programs using `BeautifulSoup` and `pd.read_html()`.
 
-191. Those questions (and other work for this lab) are the starting place for the final project.
+191. The other questions posed in this lab tutorial are intended to help you conceptualize/brainstorm/understand why you are completing these processes and to aid in the written reflection of this work. 
 
-192. The final project for this course involves a web-scraping project written in Python. Specifically, the final project allows you to select a web page (or web pages) and write a Python program (or programs) that downloads select content from that web page as a plain-text file (`CSV`, `TXT`, etc). That content could be paragraphs of text, tables of data, etc. 
+192. So really all questions (and other work for this lab tutorial) are the starting place for the final project.
 
-193. Successful final projects will include two main components:
+193. The final project for this course involves a web-scraping project written in Python. Specifically, the final project allows you to select a web page (or web pages) and write a Python program (or programs) that downloads select content from that web page as a plain-text file (`CSV`, `TXT`, etc). That content could be paragraphs of text, tables of data, etc. 
+
+194. Successful final projects will include two main components:
 - a well-documented, working Python program written in Jupyter Notebooks
 - a written reflection (minimum 300 words) that documents how you approached the final project/what you wanted to accomplish via the final project, resources consulted, how you handled challenges you encountered, key takeaways, etc.
 
-194. That reflection can come at the end of the Jupyter Notebook or be embedded throughout the Jupyter Notebook, if you want to approach authoring the notebook as a type of tutorial or "report".
+195. That reflection can come at the end of the Jupyter Notebook or be embedded throughout the Jupyter Notebook, if you want to approach authoring the notebook as a type of tutorial or "report".
 
-195. Expect to spend at least 10 hours working on the final project. That includes brainstorming, meeting with instructor/TAs, in-class work time, etc. If you’re working on a project that is not going to take that much time, think about how to add complexity or take on another smaller scale project.
+196. Expect to spend at least 8-10 hours working on the final project. This includes brainstorming, meeting with instructor/TAs, in-class work time (Lab Days April 25 and 26), etc. If you’re working on a project that is not going to take that much time, think about how to add complexity or take on another smaller scale project.
 
-196. Contact the instructor with questions.
+197. Contact the instructor with questions.
 
-197. So where to start? 
+198. So where to start? 
 
-198. The instructor and TAs are going to move quickly on getting you feedback on this lab. 
-
-199. But your work in Q4, Q10, and Q13 should be the starting place for how you think about and approach the final project.
+199. Your work in Q4, Q10, and Q13 should be the starting place for how you think about and approach the final project.
 
 200. Specifically, think about the kinds of web content you were able to scrape for these questions and how you might further develop, refine, or expand your work.
 
@@ -1709,14 +1709,9 @@ Q16: What challenges or roadblocks did you face working on Q15? What parts of th
 
 204. A third option for next steps would involve thinking expansively about how you could apply the concepts and approaches covered in this lab to a different type of data source/structure. 
 
-205. So in the interim, as you're waiting for feedback on this lab, think about where you could go next with expanding and extending your work in this lab, and start to flesh out or develop some of your own ideas about where you put your time and effort as you work on the final project.
-
 206. Final project timeline:
-- Week #14 (11/23): In-class work time
-- Week #15 (11/30, 12/2):
-  * Initial version of lab due end of day Tuesday 11/30
-  * In-class work time both days
-- By end of Week #15: Final project update/shareout due on Canvas
-- By end of day Friday 12/10 (Week #16, last week of classes/start of exam week): Final project due on Canvas by end of day
+- (4/20): Lecture going through many of the tutorial examples.
+- (4/25, 4/26): In-class work time both days. Ask questions of the TAs in class. 
+- By end of day 5/3 (e.g., the day our in person final would be): Your final project due on Canvas by end of day.
 
-207. Again, contact the instructor with questions.
+207. Again, contact the instructor/TAs with questions. DO NOT WAIT UNTIL THE LAST MINUTE! The TAs for this class have final projects and exams as well, so be sure to ask your questions before reading days/in classes on 4/25 and 4/26. 
