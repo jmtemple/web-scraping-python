@@ -5,7 +5,7 @@ This tutorial is licensed under a <a href="http://creativecommons.org/licenses/b
 
 ## Lab Overview
 
-This lab tutorial provides an introduction and overview to parsing HTML in Python using `beautifulsoup` and `pandas`. This lab tutorial is intended to be a roadmap to help in setting up necessary components of the final project (specifically, to aid in the well-documented, working Python program written in Jupyter Notebooks, and written reflection (minimum 300 words) that documents how you approached the final project/what you wanted to accomplish via the final project, resources consulted, how you handled challenges you encountered, key takeaways, etc.) 
+This lab tutorial provides an introduction and overview to parsing HTML in Python using `beautifulsoup` and `pandas`. This lab tutorial is intended to be a roadmap to help in setting up necessary components of the final project (specifically, to aid in the well-documented, working Python program written in Jupyter Notebooks (e.g., it should extract meaningful data from webpage(s) of your choosing, and then use previously learned methods to do analysis on that data), and written reflection (minimum 300 words) that documents how you approached the final project/what you wanted to accomplish via the final project, resources consulted, how you handled challenges you encountered, key takeaways, etc.) 
 
 ## Acknowledgements
 
@@ -1686,7 +1686,7 @@ Q16: What challenges or roadblocks did you face working on Q15? What parts of th
 193. The final project for this course involves a web-scraping project written in Python. Specifically, the final project allows you to select a web page (or web pages) and write a Python program (or programs) that downloads select content from that web page as a plain-text file (`CSV`, `TXT`, etc). That content could be paragraphs of text, tables of data, etc. 
 
 194. Successful final projects will include two main components:
-- a well-documented, working Python program written in Jupyter Notebooks
+- a well-documented, working Python program written in Jupyter Notebooks (e.g., it should extract meaningful data from webpage(s) of your choosing, and then use previously learned methods to do analysis on that data).  
 - a written reflection (minimum 300 words) that documents how you approached the final project/what you wanted to accomplish via the final project, resources consulted, how you handled challenges you encountered, key takeaways, etc.
 
 195. That reflection can come at the end of the Jupyter Notebook or be embedded throughout the Jupyter Notebook, if you want to approach authoring the notebook as a type of tutorial or "report".
